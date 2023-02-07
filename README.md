@@ -18,7 +18,7 @@ This is React-Redux space-travelrs Hub Group  project, and this project is about
 
 ## Page Link 
 
-[live link]()
+[live link](delightful-starship-b08d3e.netlify.app/)
 
 
 ## Getting Started
